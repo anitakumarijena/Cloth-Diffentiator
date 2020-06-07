@@ -15,18 +15,18 @@ We recommend students install [Anaconda](https://www.continuum.io/downloads), a 
 
 ### Code
 
-Template code is provided in the fashion-minst-sprite.  While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project. Note that the code included in `visuals.py` is meant to be used out-of-the-box and not intended for students to manipulate. If you are interested in how the visualizations are created in the notebook, please feel free to explore this Python file.
+Template code is provided in the fashion-minst-sprite.  While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project. 
 
 ### Run
 
 In a terminal or command window, navigate to the top-level project directory `Cloth differtiator` (that contains this README) and run one of the following commands:
 
 ```bash
-ipython notebook Sentiments Identifier.ipynb
+ipython notebook Cloth differtiator.ipynb
 ```  
 or
 ```bash
-jupyter notebook Sentiments Identifier.ipynb
+jupyter notebook Cloth differtiator.ipynb
 ```
 
 This will open the iPython Notebook software and project file in your browser.
